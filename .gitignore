@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# tooling
+.pytest_cache/
+
+# backup of a previous target file, created by the harness before a Claude Code run
+*.bak
